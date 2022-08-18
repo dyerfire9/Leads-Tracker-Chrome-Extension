@@ -62,6 +62,3 @@ function formattext(data) {
     }
     return text
 }
-
-//let button = document.getElementById("btn")
-//button.addEventListener("click", createFile(formattext(myLeads), 'myfilename.txt', 'text/plain'))
