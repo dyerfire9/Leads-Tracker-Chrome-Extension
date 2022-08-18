@@ -1,11 +1,17 @@
-# Leads Tracker Chrome Extension
-A Leads Tracker extension for Google Chrome. This extension makes tracking leads easy and simple and its features are:
+# Leads & Reference Tracker Chrome Extension
+
+Leads & Reference Tracker allows you to Collect, track and Save all your leads or references websites from across the web. 
+
+This extension is makes tracking your leads and references easy and simple. It saves all your leads or websites in one place. This extension also works well for saving websites overall for essay and marketing research. 
+
+ This extension's features include:
 
 - Add leads by typing them
-- Add the current tab to the list of Leads
+- Add the current browser tab to the list of leads
+- Re-open lead websites with a click
 - Delete all leads
 - Download all leads in the form of a text file (.txt)
-- Auto save function, one can pick up where they left off
+- Auto save function so that one can pick up where they left off
 
 
 ## Author information
