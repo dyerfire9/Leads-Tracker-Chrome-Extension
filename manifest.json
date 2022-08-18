@@ -1,8 +1,8 @@
 {
-    "version": "0.0.1",
+    "version": "1.0",
     "manifest_version": 3,
-    "name": "Leads Tracker",
-    "description": "A Leads Tracker extension for Google Chrome. This extension makes tracking leads easy and simple with an auto save functionality.",
+    "name": "Leads & Reference Tracker",
+    "description": "A Leads & Reference Tracker extension for Google Chrome. This extension makes tracking leads or references easy and simple with an auto save functionality.",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
