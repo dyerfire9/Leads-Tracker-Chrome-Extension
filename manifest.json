@@ -1,12 +1,20 @@
 {
+    "version": "0.0.1",
     "manifest_version": 3,
-    "version": "1.0",
-    "name": "Leads tracker",
+    "name": "Leads Tracker",
+    "description": "A Leads Tracker extension for Google Chrome. This extension makes tracking leads easy and simple with an auto save functionality.",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
     },
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+
+    },
     "permissions": [
+        "activeTab",
         "tabs"
     ]
 }
