@@ -13,6 +13,11 @@ This extension is makes tracking your leads and references easy and simple. It s
 - Download all leads in the form of a text file (.txt)
 - Auto save function so that one can pick up where they left off
 
+<div align="center">
+  LINK TO CHROME WEB STORE <br>
+  https://tinyurl.com/leadstracker/
+</div>
+
 
 ## Author information
 Muhammad Abdul Mannan (corresponding author and repository maintainer) <br />
