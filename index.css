@@ -9,7 +9,7 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #6A0DAD;
+    border: 2px solid #6A0DAD;
     border-radius: 10px;
     margin-bottom: 4px;
 }
@@ -21,6 +21,13 @@ button {
     border: 1px solid #6A0DAD;
     border-radius: 5px;
     font-weight: bold;
+    transition: all 200ms ease;
+}
+
+button:hover {
+    background: white;
+    color: #6A0DAD;
+    transition: all 200ms ease;
 }
 
 a button {
@@ -33,6 +40,12 @@ a button {
 #delete-btn {
     background: white;
     color: #6A0DAD;
+}
+
+#delete-btn:hover {
+    background: #DC143C;
+    color: white;
+    transition: all 200ms ease;
 }
 
 ul {
