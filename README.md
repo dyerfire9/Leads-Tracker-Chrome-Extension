@@ -10,6 +10,7 @@ This extension is makes tracking your leads and references easy and simple. It s
 - Add the current browser tab to the list of leads
 - Re-open lead websites with a click
 - Delete all leads
+- Automatically remove duplicate links / leads
 - Download all leads in the form of a text file (.txt)
 - Auto save function so that one can pick up where they left off
 
